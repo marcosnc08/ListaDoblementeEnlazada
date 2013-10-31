@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1383233767 source:c:\users\marcos.marcos-pc\documents\github\listadoblementeenlazada\listadoblementeenlazada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"global.h"
+	"primitivas.h"
+
+1383246209 c:\users\marcos.marcos-pc\documents\github\listadoblementeenlazada\listadoblementeenlazada\global.h
+
+1383233630 c:\users\marcos.marcos-pc\documents\github\listadoblementeenlazada\listadoblementeenlazada\primitivas.h
+
+1383233972 source:c:\users\marcos.marcos-pc\documents\github\listadoblementeenlazada\listadoblementeenlazada\primitivas.c
+	<stdio.h>
+	<stdlib.h>
+	"global.h"
+	"primitivas.h"
+
